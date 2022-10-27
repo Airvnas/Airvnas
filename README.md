@@ -7,7 +7,7 @@
 <!--![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)-->
 <!--![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airvnas)](https://github.com/Airvnas/github-readme-stats)-->
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airvnas)](https://github.com/Airvnas/github-readme-stats)
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Airvnas)](https://github.com/Airvnas)
